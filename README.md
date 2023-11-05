@@ -23,8 +23,10 @@
 ## Ответ
 
 Была составлена команда rsync:
-``` rsync -avP --delete --checksum --exclude '.*' ~/ /tmp/backup ```
 
+``` sudo rsync -avP --delete --checksum --exclude '.*' ~/ /tmp/backup ```
+
+'[1](Screen1.png)
 ---
 
 ## Задание 2
