@@ -40,6 +40,8 @@
 
 Был написан скрипт на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron
 
+Файл crontab находится [здесь](https://github.com/mildzikhov01/3-rezerv/blob/main/crontab.txt)
+
 ![1](Screenshot_3.png)` 
 
 ![1](Screenshot_4.png)` 
