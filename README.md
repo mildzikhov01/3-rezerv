@@ -26,7 +26,7 @@
 
 ``` sudo rsync -avP --delete --checksum --exclude '.*' ~/ /tmp/backup ```
 
-'[1](Screenshot_1.png)
+![1](Screenshot_1.png)` 
 ---
 
 ## Задание 2
