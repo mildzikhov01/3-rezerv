@@ -22,6 +22,8 @@
 
 ## Ответ
 
+Была составлена команда rsync:
+''' rsync -avP --delete --checksum --exclude '.*' ~/ /tmp/backup '''
 
 ---
 
